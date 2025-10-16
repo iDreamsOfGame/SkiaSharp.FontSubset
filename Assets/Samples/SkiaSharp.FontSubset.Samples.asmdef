@@ -1,0 +1,17 @@
+{
+    "name": "SkiaSharp.FontSubset.Samples",
+    "rootNamespace": "SkiaSharp.FontSubset.Samples",
+    "references": [
+        "SkiaSharp",
+        "SkiaSharp.FontSubset"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
