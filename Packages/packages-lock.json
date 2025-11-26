@@ -44,7 +44,7 @@
       }
     },
     "io.github.idreamsofgame.skiaforunity.standalone": {
-      "version": "3.2.1-standalone.2",
+      "version": "3.2.102",
       "depth": 0,
       "source": "registry",
       "dependencies": {
