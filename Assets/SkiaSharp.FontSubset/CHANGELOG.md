@@ -6,6 +6,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 
+## [1.1.0] - 2025-11-26
+
+### Changed
+
+- The dependency package of **SkiaUnity** has changed to **SkiaUnity.Standalone**.
+
+
+
+### Fixed
+
+- Fixed build errors on platforms **iOS/Android/WebGL**.
+
+
+
 ## [1.0.0] - 2020-04-23
+
+### Added
 
 - Initial version.
