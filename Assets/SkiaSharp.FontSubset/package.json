@@ -2,7 +2,7 @@
     "name": "io.github.idreamsofgame.skiasharp.fontsubset",
     "displayName": "SkiaSharp.FontSubset",
     "description": "Implements font subset feature by SkiaSharp.",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "unity": "2021.3",
     "author": {
         "name": "iDreamsOfGame",
@@ -10,7 +10,7 @@
     },
     "license": "MIT",
     "dependencies": {
-        "io.github.idreamsofgame.skiaforunity.standalone": "3.2.102"
+        "io.github.idreamsofgame.skiaforunity.standalone": "3.2.103"
     },
     "publishConfig": {
         "registry": "https://package.openupm.com"
