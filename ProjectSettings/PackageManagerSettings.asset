@@ -33,6 +33,7 @@ MonoBehaviour:
     - com.ammariqais.skiaforunity
     - com.openupm
     - io.github.idreamsofgame.skiaforunity.standalone
+    - org.nuget.system.runtime.compilerservices.unsafe
     m_IsDefault: 0
     m_Capabilities: 0
     m_ConfigSource: 4
