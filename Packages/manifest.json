@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "com.unity.ide.rider": "3.0.38",
+    "com.unity.ide.rider": "3.0.40",
     "com.unity.test-framework": "1.3.0",
     "com.unity.ugui": "1.0.0",
-    "io.github.idreamsofgame.skiaforunity.standalone": "3.2.104",
+    "io.github.idreamsofgame.skiaforunity.standalone": "3.2.105",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
@@ -33,6 +33,7 @@
         "com.ammariqais.skiaforunity",
         "com.openupm",
         "io.github.idreamsofgame.skiaforunity.standalone",
+        "io.github.idreamsofgame.unilitjson",
         "org.nuget.system.runtime.compilerservices.unsafe"
       ]
     }
