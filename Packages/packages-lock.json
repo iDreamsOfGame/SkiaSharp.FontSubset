@@ -16,13 +16,6 @@
       },
       "url": "https://packages.unity.cn"
     },
-    "com.unity.nuget.newtonsoft-json": {
-      "version": "3.2.2",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.cn"
-    },
     "com.unity.test-framework": {
       "version": "1.3.0",
       "depth": 0,
@@ -44,13 +37,47 @@
       }
     },
     "io.github.idreamsofgame.skiaforunity.standalone": {
-      "version": "3.2.104",
+      "version": "3.2.107",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "org.nuget.system.runtime.compilerservices.unsafe": "6.1.2",
-        "com.unity.nuget.newtonsoft-json": "3.2.2"
+        "io.github.idreamsofgame.unilitjson": "0.19.1",
+        "org.nuget.system.buffers": "4.6.1",
+        "org.nuget.system.memory": "4.6.3",
+        "org.nuget.system.runtime.compilerservices.unsafe": "6.1.2"
       },
+      "url": "https://package.openupm.com"
+    },
+    "io.github.idreamsofgame.unilitjson": {
+      "version": "0.19.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "org.nuget.system.buffers": {
+      "version": "4.6.1",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
+    "org.nuget.system.memory": {
+      "version": "4.6.3",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "org.nuget.system.buffers": "4.6.1",
+        "org.nuget.system.numerics.vectors": "4.6.1",
+        "org.nuget.system.runtime.compilerservices.unsafe": "6.1.2"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "org.nuget.system.numerics.vectors": {
+      "version": "4.6.1",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
       "url": "https://package.openupm.com"
     },
     "org.nuget.system.runtime.compilerservices.unsafe": {

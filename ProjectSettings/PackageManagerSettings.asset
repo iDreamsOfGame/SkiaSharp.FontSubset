@@ -33,6 +33,10 @@ MonoBehaviour:
     - com.ammariqais.skiaforunity
     - com.openupm
     - io.github.idreamsofgame.skiaforunity.standalone
+    - io.github.idreamsofgame.unilitjson
+    - org.nuget.system.buffers
+    - org.nuget.system.memory
+    - org.nuget.system.numerics.vectors
     - org.nuget.system.runtime.compilerservices.unsafe
     m_IsDefault: 0
     m_Capabilities: 0
